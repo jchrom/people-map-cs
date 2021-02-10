@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset='utf-8' />
-    <title>People map of the Czech Republic</title>
+    <title>A People Map of Czechia</title>
     <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
     <script src='https://api.mapbox.com/mapbox-gl-js/v2.0.0/mapbox-gl.js'></script>
     <link href='https://api.mapbox.com/mapbox-gl-js/v2.0.0/mapbox-gl.css' rel='stylesheet' />
@@ -35,6 +35,7 @@
 
     map.on('load', function () {
 
+      // Follow the tutorial at https://docs.mapbox.com/mapbox-gl-js/example/display-and-style-rich-text-labels/
       map.setLayoutProperty('people-labels', 'text-field', [
         'format',
         ['get', 'label'],
@@ -71,7 +72,6 @@
       };
 
       var popup = new mapboxgl.Popup({ offset: [0, 0], maxWidth: '400px' })
-      //var popup = new mapboxgl.Popup({ offset: [0, 0] })
         .setLngLat(feature.geometry.coordinates)
         .setHTML(
           '<div>' +

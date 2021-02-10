@@ -10,7 +10,7 @@ To go to the map, click the mage below.
 
 <p>
   <a href="https://jchrom.github.io/people-map-cs/index.html" title="Click for redirect to the map">
-    <img src="../master/people-map-cs.png" alt="map" height="225px" width="auto" />
+    <img src="../master/map.png" alt="map" height="225px" width="auto" target="_blank" />
   </a>
 </p>
 

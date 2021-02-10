@@ -6,7 +6,7 @@ Each name on [the map](https://jchrom.github.io/people-map-cs/index.html) repres
 
 The location of each name indicates a birthplace, a workplace, a place of death, a memorial site or other type of association with the person. The bigger the name, the more pageviews accumulated by the article. Click on the green bubble to display a popup with an extract and a link to Wikipedia.
 
-To go to the map, click the mage below.
+To go to the map, click the image below.
 
 <p>
   <a href="https://jchrom.github.io/people-map-cs/index.html" title="Click for redirect to the map">

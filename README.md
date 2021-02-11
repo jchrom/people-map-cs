@@ -8,11 +8,9 @@ Jména se objevují v místech, s nimiž jsou jejich nositelé nějakým způsob
 
 K přesměrování na interaktivní mapu klikněte na obrázek.
 
-<kbd>
-  <a href="https://jchrom.github.io/people-map-cs/index.html" title="Klikněte k přesměrování na interaktivní mapu">
-    <img src="../master/map.png" alt="map" height="225px" width="auto" target="_blank" />
-  </a>
-</kbd>
+<a href="https://jchrom.github.io/people-map-cs/index.html" title="Klikněte k přesměrování na interaktivní mapu">
+  <img src="../master/map.png" alt="map" height="225px" width="auto" target="_blank" box-shadow="1px 1px 2px #888888;" />
+</a>
 
 ### Použité metody
 
